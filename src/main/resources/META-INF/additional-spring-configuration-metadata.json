@@ -4,6 +4,11 @@
       "name": "app.version",
       "type": "java.lang.String",
       "description": "Version shown in the application banner."
+    },
+    {
+      "name": "spring.h2.console.enabled",
+      "type": "java.lang.Boolean",
+      "description": "Enables the H2 database web console."
     }
   ]
 }
